@@ -1,0 +1,19 @@
+{
+  "name": "phytopharma",
+  "version": "1.0.0",
+  "description": "Simple API Excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Georzilla/phytopharma.git"
+  },
+  "author": "Georzilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Georzilla/phytopharma/issues"
+  },
+  "homepage": "https://github.com/Georzilla/phytopharma#readme"
+}
