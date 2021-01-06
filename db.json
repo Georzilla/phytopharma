@@ -1,0 +1,117 @@
+﻿{
+    "plants": [
+       
+  {
+    "id": "000",
+    "name": "aloe vera",
+    "nombre científico": "aloe ferox miller",
+    "parte util": "pulpa de la hoja (penca)",
+    "propiedad": ["laxante suave", "cicatrizante"],
+    "usos": ["constipacion de vientre", "quemaduras", "inflamaciones"],
+    "dosis": [
+        {
+            "preparacion": "licuada con zumo de algun citrico",
+            "unguento": "gel en el area afectada",
+            "procesado": "1 capsula cada noche por una semana",
+            "infusión": false
+        }
+        ],
+    "origen": ["America, Europa, Asia"],
+    "precauciones": [
+        "no exceder el uso por una semana",
+        "no usar en niños, embarazadas o lactantes",
+        "de preferencia usar de noche"
+        ],
+    "composicion quimica": [
+        {
+            "acibar": "antracenosinos (20% al 45%)",
+            "gel": "agua y polisacaridos"
+        }
+        ],
+    "complemento": null,
+    "sistema dermatologico": 2,
+    "sistema digestivo": 1,
+    "sistema nervioso central": null,
+    "sistema genito urinario": null,
+    "sistema respiratorio": null,
+    "sistema inmunologico": null,
+    "sistema circulatorio": null,
+    "sistema muscular": null,
+    "belleza": 2,					
+    "beneficios": "pendiente"
+},
+            
+{	
+    "id": "001",
+    "name": "cáscara sagradda",
+    "nombre cientifico": "rhamnus purshianus",
+    "parte util": "corteza desecada",
+    "propiedad": ["laxante suave", "colagogo"], 									
+    "usos": ["constipación de vientre cronica", "afecciones hepato-biliares", "calculo"],
+    "dosis": [
+        {
+            "preparación": "infusión 20g de corteza en 1 litro de agua, un vaso antes de dormir",
+            "extracto fluido": "una cucharadita de café",
+            "procesado": "1 capsula de 0.3g - 1g al día ",
+            "infusión": true
+        }
+        ],
+    "origen":["Estados Unidos"],
+    "precauciones": ["no usar en niños, embarazadas o lactantes"],
+    "composición química": ["glicosidos hidroxiantracenicos", "cascarócidos", "aloe emodina", "crisaloína"],
+
+    "complemento": null,
+    "sistema dermatológico": null,
+    "sistema digestivo": 1,
+    "sistema nervioso central": null,
+    "sistema genito urinario": null,
+    "sistema respiratorio": null,
+    "sistema inmunológico": null,
+    "sistema circulatorio": null,
+    "sistema muscular": null,
+    "belleza": null,
+    "beneficios": null
+},
+
+{
+    "id": "002",
+    "name": "sen",
+    "nombre científico": "cassia senna l",
+    "parte útil": "hojas y frutos desecados",
+    "propiedad": ["laxante suave"],
+    "usos": ["estreñimiento crónico"],
+    "dosis": [
+        {
+            "preparación": "en infusión 3 gramos por taza de agua",
+            "procesado": "1 capsula cada noche",
+            "infusión": true
+        }
+        ],
+    "origen": [
+        "Arabia", 
+        "India", 
+        "Pakistan"
+        ],
+    "precauciones": [
+        "su uso prolongado causa dependencia (psicosis de estreñimiento), puede causar nauseas, colitis, vómitos y diarrea con dolor abdominal",
+        "no usar en menores de 15 años, lactantes, en etapa de embarazo, falencias como colon irritable, colitis, alguna obstrucción intestinal o vías biliares y apendicitis"
+        ],
+    "composición química": [
+        "senócidos (heterósido de diantrona)",
+        "antraquinonas libres"
+        ],
+    "complemento": null,
+    "sistema dermatológico": null,
+    "sistema digestivo": 1,
+    "sistema nervioso central": null,
+    "sistema genito urinario": null,
+    "sistema respiratorio": null,
+    "sistema inmunológico": null,
+    "sistema circulatorio": null,
+    "sistema muscular": null,
+    "belleza": null,
+    "beneficios": null
+}
+    
+    ]
+}
